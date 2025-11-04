@@ -1,0 +1,11 @@
+# Binários Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Pastas de build
+bin/
+build/
+dist/
