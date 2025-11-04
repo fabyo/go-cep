@@ -26,9 +26,8 @@ Aplicação simples em **Go** que expõe uma página HTML com um formulário de 
 - Página com formulário contendo:
   - Campo de **CEP**
   - Campos de **logradouro**, **bairro**, **cidade**, **UF**
-- Ao digitar o CEP e:
-  - clicar em **“Buscar CEP”**, ou
-  - sair do campo (evento `blur`),
+- Ao digitar o CEP:
+  - cliquer em **“Buscar CEP”**
   
   o frontend faz uma requisição `fetch` para:
 
