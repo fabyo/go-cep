@@ -4,8 +4,6 @@
 
 Aplicação simples em **Go** que expõe uma página HTML com um formulário de CEP e consome a API pública do **[ViaCEP](https://viacep.com.br/)** para preencher automaticamente endereço, bairro, cidade e UF.
 
-É um ótimo exemplo de:
-
 - Servidor HTTP em Go
 - Template HTML + JavaScript
 - Consumo de API externa (ViaCEP) do lado do backend
