@@ -2,6 +2,8 @@
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 
+<img src="go-cep.jpg" alt="Golang" width="200" />
+
 Aplicação simples em **Go** que expõe uma página HTML com um formulário de CEP e consome a API pública do **[ViaCEP](https://viacep.com.br/)** para preencher automaticamente endereço, bairro, cidade e UF.
 
 É um ótimo exemplo de:
